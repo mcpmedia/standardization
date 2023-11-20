@@ -1,7 +1,7 @@
 # Standards of Pricing
 ## Policy
-### Dual-Binary-Based Marked Pricing
-All undiscounted marked prices shall be in the form of 2^m + 2^n with m,n as natural numbers and 2>=m-n>=0:
+### Dual-Binary-Based Pricing
+Standard marked prices shall be in the form of 2^m + 2^n with m,n as natural numbers and 2>=m-n>=0:
 - 2^1+2^1=4=2^2
 - 2^2+2^1=6
 - 2^2+2^2=8=2^3
@@ -26,5 +26,5 @@ All undiscounted marked prices shall be in the form of 2^m + 2^n with m,n as nat
 - 2^9+2^7=640
 - 2^9+2^8=768
 - 2^9+2^9=1024=2^10
-### Discounted Pricing
-All discounted pricing shall not follow the dual-binary-based format.
+### Special Pricing
+Special marked prices shall not follow the dual-binary-based format.
