@@ -1,7 +1,7 @@
 # Units of Digital Information
 ## Background
 ### Base Unit
-The base unit of digital information is byte, abbreviated as B. Each byte consists of 8 bits, each denoting a binary state.
+The base unit of digital information is bit, abbreviated as b, denoting a binary state. 8 bits make up one byte, abbreviated as B.
 ### Decimal Units
 The universally accepted units of digital information make use of the SI-compliant multiplier of 1000. This means that 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB, 1 TB = 1000 GB, etc.
 ### Binary Units
