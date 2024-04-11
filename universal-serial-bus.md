@@ -13,4 +13,4 @@
 | USB 4.0  | 20 Gbps  | USB4, USB4 Gen 3x1                                     |
 | USB 4.1  | 40 Gbps  | USB4, USB4 Gen 3x2                                     |
 | USB 4.2  | 80 Gbps  | USB4 Version 2.0, USB4 Gen 4                           |
-1. Speed refers to theoretical symmetrical top speed using the protocol.
+1. Speed refers to symmetrical bandwidth under the protocol.
